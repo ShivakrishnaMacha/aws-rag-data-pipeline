@@ -25,7 +25,7 @@ flowchart LR
     E --> F[search.py<br/>hybrid BM25 + dense fusion]
     F --> G[answer.py<br/>extractive, citation-grounded]
     G --> H[app.py<br/>Streamlit chat UI]
-    E --> I[evaluate.py<br/>recall@k · MRR · citations]
+    E --> I["evaluate.py<br/>recall@k · MRR · citations"]
 ```
 
 ## Features
