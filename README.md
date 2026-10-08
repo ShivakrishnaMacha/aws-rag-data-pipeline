@@ -12,7 +12,7 @@ idempotent ETL pipeline, then served through a **hybrid BM25 + dense retrieval
 API** with citation-grounded answers — plus an eval harness that keeps
 retrieval quality honest.
 
-> 🎬 **Live demo:** <live-demo-url>
+> 🎬 **Live demo:** [https://aws-rag-data-pipeline-o2pwwphpoytobhdthazrw9.streamlit.app](https://aws-rag-data-pipeline-o2pwwphpoytobhdthazrw9.streamlit.app)
 
 ## Architecture
 
